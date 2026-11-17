@@ -3,7 +3,7 @@ name = "SigmaOS-service-dependency"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "service-dependency component"
+description = "service dependency"
 upstream = []
 
 [contract]
